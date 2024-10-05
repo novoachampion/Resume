@@ -4,19 +4,20 @@ body {
     color: #333;
     text-align: center;
 }
+p {
+    text-align: left;
+}
 
 h1 {
-    color: #007BFF;
+    color: #333333;
 }
 
 a {
-    color: #007BFF;
+    color: #86ADBA;
     text-decoration: none;
 }
 
 a:hover {
     text-decoration: underline;
 }
-p {
-    text-align: left;
-}
+
